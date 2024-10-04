@@ -25,12 +25,12 @@ This theme was derived from the [vksbella](https://github.com/vskbellala)'s [met
 
 3. Enjoy your presentation!
 
-<!-- ## Demo
+## Demo
 
-`\usepackage{metropolisbrown}`
+`\usepackage{metropowick}`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/vskbellala/metropolis-brown/main/samples/BrownU_Metropolis.pdf">
-<img src="https://raw.githubusercontent.com/vskbellala/metropolis-brown/main/samples/BrownU_Metropolis.png">
+<a href="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/metropowick.pdf">
+<img src="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/title_page.png">
 </a>
-</p> -->
+</p>
