@@ -1,0 +1,51 @@
+% University of Warwick theme for Metropolis
+% https://github.com/EdmundGoodman/metropowick
+
+% Warwick brand guidlines: https://warwick.ac.uk/about/brand/brand-guidelines/colours/
+% Beamer config derived from: https://github.com/vskbellala/metropolis-brown/blob/main/metropolisbrown.sty
+
+\RequirePackage{caption}
+\RequirePackage{lato}
+
+% % Font
+% Lato (\usepackage[default]{lato})
+
+% % Logo
+% \titlegraphic{
+%   \vspace{0.57\paperheight}%
+%   \includegraphics[width=3.2cm, right]{University_of_Warwick_logo_2023_Aubergine_RGB.png}
+% }
+
+% Constants
+\definecolor{aubergine}{RGB}{60,16,83}
+\definecolor{brightteal}{RGB}{109,205,184}
+\definecolor{brightblue}{RGB}{0,169,206}
+\definecolor{brightorange}{RGB}{232,119,34}
+\definecolor{brightruby}{RGB}{203,51,59}
+\definecolor{brightgold}{RGB}{241,190,72}
+\definecolor{darkteal}{RGB}{80,127,112}
+\definecolor{darkblue}{RGB}{65,116,141}
+\definecolor{darkorange}{RGB}{190,83,28}
+\definecolor{darkruby}{RGB}{157,34,53}
+\definecolor{darkgold}{RGB}{214,154,45}
+\definecolor{black}{RGB}{0,0,0}
+\definecolor{grey}{RGB}{88,89,91}
+\definecolor{white}{RGB}{255,255,255}
+
+% Captions
+\captionsetup[figure]{labelfont={bf,color=aubergine}}
+\captionsetup[table]{labelfont={bf,color=aubergine}}
+
+% Progress Bar
+\newcommand{\progressbar}{1pt}
+\makeatletter
+\setlength{\metropolis@titleseparator@linewidth}{\progressbar}
+\setlength{\metropolis@progressonsectionpage@linewidth}{\progressbar}
+\setlength{\metropolis@progressinheadfoot@linewidth}{\progressbar}
+\makeatother
+
+% Slide colors
+\setbeamercolor{alerted text}{fg=brightgold}
+\setbeamercolor{example text}{fg=darkgold}
+\setbeamercolor{palette primary}{bg=aubergine}
+\setbeamercolor{bibliography entry location}{fg=aubergine}
