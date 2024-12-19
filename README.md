@@ -32,5 +32,8 @@ This theme was derived from the [vksbella](https://github.com/vskbellala)'s [met
 <p align="center">
 <a href="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/metropowick.pdf">
 <img src="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/title_page.png">
+<img src="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/metropowick_image_footcite.png">
+<img src="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/metropowick_code.png">
+<img src="https://raw.githubusercontent.com/EdmundGoodman/metropowick/main/samples/metropowick_references.png">
 </a>
 </p>
