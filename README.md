@@ -1,4 +1,4 @@
-# metropowick
+# Metropowick
 
 [University of Warwick](https://warwick.ac.uk/) color scheme for [Metropolis](https://www.ctan.org/pkg/beamertheme-metropolis) LaTeX Beamer theme.
 
